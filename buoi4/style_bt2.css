@@ -1,0 +1,49 @@
+
+.header{
+    position: fixed;
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.header .slogan {
+    display: flex;
+    justify-content: center;
+}
+
+.header .slogan p{
+    margin: 0px;
+}
+
+.header select{
+    left: 1000px;
+    position: relative;
+    top: -20px;
+}
+
+/* 
+.header p{
+    margin: 0px;
+}
+
+.header .slogan {
+    text-align: center;
+}
+
+.header .slogan p {
+    float: left;
+}
+
+.header .slogan a {
+    float: left;
+}
+
+.header a{
+    font-weight: bold;
+    color: white;
+    text-decoration-color: white;
+}
+
+.header p select{
+    position: relative; */

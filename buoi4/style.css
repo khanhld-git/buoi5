@@ -1,0 +1,16 @@
+.head{
+    font-size: 30px;
+}
+
+.button{
+    width: 400px;
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+
+    color: white;
+    background-color: blue;
+}
+
+.Content table tbody label{
+    font-weight: bold;
+}
